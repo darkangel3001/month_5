@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d760ce-7980-4b0a-8ae6-5ba073d6ea7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Afisha/users/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Afisha/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Afisha/movie_app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Afisha/movie_app/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Afisha/Afisha/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Afisha/Afisha/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Afisha/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Afisha/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Afisha/movie_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Afisha/movie_app/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Afisha/movie_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Afisha/movie_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +97,10 @@
       <workItem from="1736185735000" duration="114000" />
       <workItem from="1736185862105" duration="3915000" />
       <workItem from="1736427069050" duration="1124000" />
-      <workItem from="1736785636018" duration="308000" />
+      <workItem from="1736785636018" duration="1029000" />
+      <workItem from="1737140827518" duration="506000" />
+      <workItem from="1737394107825" duration="991000" />
+      <workItem from="1737989405735" duration="966000" />
     </task>
     <servers />
   </component>
